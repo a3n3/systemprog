@@ -1,0 +1,5 @@
+#cmakedefine PROJECT_VERSION @PROJECT_VERSION_PATCH@
+
+
+
+

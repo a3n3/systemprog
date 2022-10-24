@@ -1,0 +1,3 @@
+/home/anahit/systemprog/cmake/build/CMakeFiles/rebuild_cache.dir
+/home/anahit/systemprog/cmake/build/CMakeFiles/edit_cache.dir
+/home/anahit/systemprog/cmake/build/CMakeFiles/test.dir
